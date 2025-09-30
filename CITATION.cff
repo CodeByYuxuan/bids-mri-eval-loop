@@ -1,0 +1,11 @@
+# CITATION.cff
+cff-version: 1.0.0
+title: "bids-mri-eval-loop"
+message: "If you use this tool, please cite it as below."
+authors:
+  - family-names: Liu
+    given-names: Yuxuan
+    orcid: N/A # Add ORCID if available
+version: 0.1.0
+date-released: 2025-10-01
+repository-code: "https://github.com/CodeByYuxuan/bids-mri-eval-loop"
